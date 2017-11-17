@@ -5,4 +5,11 @@
   * 安装php5-mysql sudo apt-get install php5-mysql  
   
 ## Install
-sudo apt-get install phpmyadmin  
+sudo apt-get install phpmyadmin  
+
+## 配置  
+需要配置到phpmyadmin
+
+# References
+https://askubuntu.com/questions/19127/how-to-access-phpmyadmin-after-installation
+
